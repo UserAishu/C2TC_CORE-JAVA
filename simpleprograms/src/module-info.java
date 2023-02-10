@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author standard
+ *
+ */
+module simpleprograms {
+}
